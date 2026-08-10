@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently focused on software development and doing a lot of full-stack work.But beyond just setting up the database and UI, what I really enjoy is the raw problem-solving side of it. I do a lot of competitive programming—I'm rated 1711 on LeetCode and 1422 on Codeforces. I've found that grinding DSA really helps me figure out the most efficient way to handle complex backend logic, like managing concurrent seat bookings for the app I'm working on.<br>
+I’m currently focused on software development and doing a lot of full-stack work. But beyond just setting up the database and UI, what I really enjoy is the raw problem-solving side of it. I do a lot of competitive programming—I'm rated 1711 on LeetCode and 1422 on Codeforces. I've found that grinding DSA really helps me figure out the most efficient way to handle complex backend logic, like managing concurrent seat bookings for the app I'm working on.<br>
 
 
 ## 🌐 Socials:
